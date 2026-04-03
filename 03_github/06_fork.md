@@ -12,7 +12,7 @@
 
 ## Oefening
 * fork deze repo (gitoefeningen) op github
-* [clone](03_connect_with_existing_github_repo.md) de **geforkte repo**
+* [clone](03_connect_with_existing_github_repo.md) de **geforkte repo** ....
 * experimenteer: pas de files aan, commit, **push** en bekijke het resultaat op je geforkte repo op Github 
 
 
